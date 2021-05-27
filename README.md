@@ -11,7 +11,7 @@
 - time 
 
 
-
+# | Info
 - || - Version 1.0.0                
 - || - Made by n1ubdev, in Python3. 
 
