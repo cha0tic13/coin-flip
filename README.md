@@ -1,9 +1,9 @@
-### Coin-Fliper whatever
+# Coin-Fliper whatever
 
-# | Flips a virtual coin and gives you the result. It looks pretty nice, but can only be ran on a Windows terminal.
+### | Flips a virtual coin and gives you the result. It looks pretty nice, but can only be ran on a Windows terminal.
 
 
-# | Requirements
+### | Requirements
 
 - Random
 - win32con
@@ -11,8 +11,8 @@
 - time 
 
 
-# | Info
-- || - Version 1.0.0                
+### | Info
+- || - Version 1.0.1               
 - || - Made by n1ubdev, in Python3. 
 
 
