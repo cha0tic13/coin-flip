@@ -1,8 +1,7 @@
 ### Coin-Fliper whatever
 
-# | Flips a virtual coin and gives you the result.
-# | Looks pretty nice, but can only be ran on a Windows terminal.
-# | Made because i was bored and i wanted to do something.
+# | Flips a virtual coin and gives you the result. It looks pretty nice, but can only be ran on a Windows terminal.
+
 
 # | Requirements
 
