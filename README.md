@@ -10,6 +10,9 @@
 - win32gui
 - time 
 
+### | How to use
+
+- Just type "python3 coinflip.py" and use your brain. 
 
 ### | Info
 - || - Version 1.0.1               
